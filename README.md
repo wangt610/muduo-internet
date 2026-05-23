@@ -4,9 +4,8 @@
 ``` 
 timestamp时间戳 
 作用：高精度的时间封装 统一系统时间获取
-设计详解 继承copyable
-equality_comparable自动生成!=运算符（只需手动实现==）
-less_than_comparable：自动生成>、<=、>=运算符（只需手动实现<）
+设计详解 继承copyable 和 type类
+copyable:空基类 标记类为值类型
+Types.h：定义int64_t/string等基础类型别名
 
-注意继承的是boost里面的类 需下载源码和
 ```
