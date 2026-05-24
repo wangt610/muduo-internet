@@ -7,6 +7,12 @@
     <ClCompile Include="D:\muduo\muduo-internet\Log\Logger.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="D:\muduo\muduo-internet\Log\AppendFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\muduo\muduo-internet\Log\LogFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="D:\muduo\muduo-internet\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
