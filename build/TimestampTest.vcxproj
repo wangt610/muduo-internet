@@ -335,6 +335,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="D:\muduo\muduo-internet\Log\TimeStamp.cpp" />
     <ClCompile Include="D:\muduo\muduo-internet\Log\Logger.cpp" />
     <ClCompile Include="D:\muduo\muduo-internet\Log\AppendFile.cpp" />
+    <ClCompile Include="D:\muduo\muduo-internet\Log\Asynclogging.cpp" />
     <ClCompile Include="D:\muduo\muduo-internet\Log\LogFile.cpp" />
     <ClCompile Include="D:\muduo\muduo-internet\main.cpp" />
   </ItemGroup>

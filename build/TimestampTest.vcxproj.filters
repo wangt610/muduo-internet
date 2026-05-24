@@ -10,6 +10,9 @@
     <ClCompile Include="D:\muduo\muduo-internet\Log\AppendFile.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="D:\muduo\muduo-internet\Log\Asynclogging.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="D:\muduo\muduo-internet\Log\LogFile.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
