@@ -4,9 +4,14 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "${workspaceFolder}/boost"  // 关键：加入boost路径
+                "C:/msys64/mingw64/include",
+                "C:/msys64/mingw64/x86_64-w64-mingw32/include"
             ],
-            "defines": ["_DEBUG", "UNICODE", "_UNICODE"],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
             "cStandard": "c17",
             "cppStandard": "c++17",
             "intelliSenseMode": "windows-msvc-x64"
