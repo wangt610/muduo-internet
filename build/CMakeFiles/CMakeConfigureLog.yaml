@@ -24,7 +24,7 @@ events:
       The output was:
       0
       适用于 .NET Framework MSBuild 版本 17.14.8+a7a4d5af0
-      生成启动时间为 2026/5/24 13:39:43。
+      生成启动时间为 2026/5/24 14:04:58。
       
       节点 1 上的项目“D:\\muduo\\muduo-internet\\build\\CMakeFiles\\3.31.2\\CompilerIdC\\CompilerIdC.vcxproj”(默认目标)。
       PrepareForBuild:
@@ -53,7 +53,7 @@ events:
           0 个警告
           0 个错误
       
-      已用时间 00:00:01.69
+      已用时间 00:00:01.55
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -79,7 +79,7 @@ events:
       The output was:
       0
       适用于 .NET Framework MSBuild 版本 17.14.8+a7a4d5af0
-      生成启动时间为 2026/5/24 13:39:45。
+      生成启动时间为 2026/5/24 14:05:00。
       
       节点 1 上的项目“D:\\muduo\\muduo-internet\\build\\CMakeFiles\\3.31.2\\CompilerIdCXX\\CompilerIdCXX.vcxproj”(默认目标)。
       PrepareForBuild:
@@ -108,7 +108,7 @@ events:
           0 个警告
           0 个错误
       
-      已用时间 00:00:01.62
+      已用时间 00:00:01.54
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -127,8 +127,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-vsvq2m"
-      binary: "D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-vsvq2m"
+      source: "D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-rht8w4"
+      binary: "D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-rht8w4"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
@@ -136,40 +136,40 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-vsvq2m'
+        Change Dir: 'D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-rht8w4'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_b0447.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_8818a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         适用于 .NET Framework MSBuild 版本 17.14.8+a7a4d5af0
-        生成启动时间为 2026/5/24 13:39:48。
+        生成启动时间为 2026/5/24 14:05:02。
         
-        节点 1 上的项目“D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vsvq2m\\cmTC_b0447.vcxproj”(默认目标)。
+        节点 1 上的项目“D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rht8w4\\cmTC_8818a.vcxproj”(默认目标)。
         PrepareForBuild:
-          正在创建目录“cmTC_b0447.dir\\Debug\\”。
+          正在创建目录“cmTC_8818a.dir\\Debug\\”。
           已启用结构化输出。编译器诊断的格式设置将反映错误层次结构。有关详细信息，请参阅 https://aka.ms/cpp/structured-output。
-          正在创建目录“D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vsvq2m\\Debug\\”。
-          正在创建目录“cmTC_b0447.dir\\Debug\\cmTC_b0447.tlog\\”。
+          正在创建目录“D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rht8w4\\Debug\\”。
+          正在创建目录“cmTC_8818a.dir\\Debug\\cmTC_8818a.tlog\\”。
         InitializeBuildStatus:
-          正在创建“cmTC_b0447.dir\\Debug\\cmTC_b0447.tlog\\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
-          正在对“cmTC_b0447.dir\\Debug\\cmTC_b0447.tlog\\unsuccessfulbuild”执行 Touch 任务。
+          正在创建“cmTC_8818a.dir\\Debug\\cmTC_8818a.tlog\\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+          正在对“cmTC_8818a.dir\\Debug\\cmTC_8818a.tlog\\unsuccessfulbuild”执行 Touch 任务。
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b0447.dir\\Debug\\\\" /Fd"cmTC_b0447.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8818a.dir\\Debug\\\\" /Fd"cmTC_8818a.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
           用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.44.35207.1 版
           版权所有(C) Microsoft Corporation。保留所有权利。
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b0447.dir\\Debug\\\\" /Fd"cmTC_b0447.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8818a.dir\\Debug\\\\" /Fd"cmTC_8818a.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vsvq2m\\Debug\\cmTC_b0447.exe" /INCREMENTAL /ILK:"cmTC_b0447.dir\\Debug\\cmTC_b0447.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-vsvq2m/Debug/cmTC_b0447.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-vsvq2m/Debug/cmTC_b0447.lib" /MACHINE:X64  /machine:x64 cmTC_b0447.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_b0447.vcxproj -> D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vsvq2m\\Debug\\cmTC_b0447.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rht8w4\\Debug\\cmTC_8818a.exe" /INCREMENTAL /ILK:"cmTC_8818a.dir\\Debug\\cmTC_8818a.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-rht8w4/Debug/cmTC_8818a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-rht8w4/Debug/cmTC_8818a.lib" /MACHINE:X64  /machine:x64 cmTC_8818a.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_8818a.vcxproj -> D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rht8w4\\Debug\\cmTC_8818a.exe
         FinalizeBuildStatus:
-          正在删除文件“cmTC_b0447.dir\\Debug\\cmTC_b0447.tlog\\unsuccessfulbuild”。
-          正在对“cmTC_b0447.dir\\Debug\\cmTC_b0447.tlog\\cmTC_b0447.lastbuildstate”执行 Touch 任务。
-        已完成生成项目“D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vsvq2m\\cmTC_b0447.vcxproj”(默认目标)的操作。
+          正在删除文件“cmTC_8818a.dir\\Debug\\cmTC_8818a.tlog\\unsuccessfulbuild”。
+          正在对“cmTC_8818a.dir\\Debug\\cmTC_8818a.tlog\\cmTC_8818a.lastbuildstate”执行 Touch 任务。
+        已完成生成项目“D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rht8w4\\cmTC_8818a.vcxproj”(默认目标)的操作。
         
         已成功生成。
             0 个警告
             0 个错误
         
-        已用时间 00:00:01.55
+        已用时间 00:00:01.56
         
       exitCode: 0
   -
@@ -209,8 +209,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-clxamd"
-      binary: "D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-clxamd"
+      source: "D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-b27buc"
+      binary: "D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-b27buc"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
@@ -219,40 +219,40 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-clxamd'
+        Change Dir: 'D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-b27buc'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_ef46a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_761be.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         适用于 .NET Framework MSBuild 版本 17.14.8+a7a4d5af0
-        生成启动时间为 2026/5/24 13:39:50。
+        生成启动时间为 2026/5/24 14:05:04。
         
-        节点 1 上的项目“D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-clxamd\\cmTC_ef46a.vcxproj”(默认目标)。
+        节点 1 上的项目“D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b27buc\\cmTC_761be.vcxproj”(默认目标)。
         PrepareForBuild:
-          正在创建目录“cmTC_ef46a.dir\\Debug\\”。
+          正在创建目录“cmTC_761be.dir\\Debug\\”。
           已启用结构化输出。编译器诊断的格式设置将反映错误层次结构。有关详细信息，请参阅 https://aka.ms/cpp/structured-output。
-          正在创建目录“D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-clxamd\\Debug\\”。
-          正在创建目录“cmTC_ef46a.dir\\Debug\\cmTC_ef46a.tlog\\”。
+          正在创建目录“D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b27buc\\Debug\\”。
+          正在创建目录“cmTC_761be.dir\\Debug\\cmTC_761be.tlog\\”。
         InitializeBuildStatus:
-          正在创建“cmTC_ef46a.dir\\Debug\\cmTC_ef46a.tlog\\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
-          正在对“cmTC_ef46a.dir\\Debug\\cmTC_ef46a.tlog\\unsuccessfulbuild”执行 Touch 任务。
+          正在创建“cmTC_761be.dir\\Debug\\cmTC_761be.tlog\\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+          正在对“cmTC_761be.dir\\Debug\\cmTC_761be.tlog\\unsuccessfulbuild”执行 Touch 任务。
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_ef46a.dir\\Debug\\\\" /Fd"cmTC_ef46a.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_761be.dir\\Debug\\\\" /Fd"cmTC_761be.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
           用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.44.35207.1 版
           版权所有(C) Microsoft Corporation。保留所有权利。
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_ef46a.dir\\Debug\\\\" /Fd"cmTC_ef46a.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_761be.dir\\Debug\\\\" /Fd"cmTC_761be.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-clxamd\\Debug\\cmTC_ef46a.exe" /INCREMENTAL /ILK:"cmTC_ef46a.dir\\Debug\\cmTC_ef46a.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-clxamd/Debug/cmTC_ef46a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-clxamd/Debug/cmTC_ef46a.lib" /MACHINE:X64  /machine:x64 cmTC_ef46a.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_ef46a.vcxproj -> D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-clxamd\\Debug\\cmTC_ef46a.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b27buc\\Debug\\cmTC_761be.exe" /INCREMENTAL /ILK:"cmTC_761be.dir\\Debug\\cmTC_761be.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-b27buc/Debug/cmTC_761be.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-b27buc/Debug/cmTC_761be.lib" /MACHINE:X64  /machine:x64 cmTC_761be.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_761be.vcxproj -> D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b27buc\\Debug\\cmTC_761be.exe
         FinalizeBuildStatus:
-          正在删除文件“cmTC_ef46a.dir\\Debug\\cmTC_ef46a.tlog\\unsuccessfulbuild”。
-          正在对“cmTC_ef46a.dir\\Debug\\cmTC_ef46a.tlog\\cmTC_ef46a.lastbuildstate”执行 Touch 任务。
-        已完成生成项目“D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-clxamd\\cmTC_ef46a.vcxproj”(默认目标)的操作。
+          正在删除文件“cmTC_761be.dir\\Debug\\cmTC_761be.tlog\\unsuccessfulbuild”。
+          正在对“cmTC_761be.dir\\Debug\\cmTC_761be.tlog\\cmTC_761be.lastbuildstate”执行 Touch 任务。
+        已完成生成项目“D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b27buc\\cmTC_761be.vcxproj”(默认目标)的操作。
         
         已成功生成。
             0 个警告
             0 个错误
         
-        已用时间 00:00:01.61
+        已用时间 00:00:01.51
         
       exitCode: 0
   -

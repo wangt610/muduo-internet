@@ -16,9 +16,6 @@ public:
     ss_ << msg << " ";
    }
   ~LogMessage(){ 
-      text_ = ss_.str();
-        ss_.str(""); // 清空stringstream
-        ss_.clear(); // 重置状态
   }
     template<typename T>
     LogMessage& operator<<(const T& value) {
@@ -26,7 +23,7 @@ public:
         return *this;
     }
     const std::string getmsg(){
-        text_ = ss_.str();
+        text_ += ss_.str();
         ss_.str(""); // 清空stringstream
         ss_.clear(); // 重置状态
         std::string msg = head_+text_;

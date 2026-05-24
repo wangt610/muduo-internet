@@ -20,6 +20,7 @@ public:
         logLevel_ = level;
     }
     ~Logger(){
+        logMessage_<<"\n";
         if (logMessage_.getmsg().empty()) {
             return;
         }
