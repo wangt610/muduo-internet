@@ -4,6 +4,9 @@
     <ClCompile Include="D:\muduo\muduo-internet\Log\TimeStamp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="D:\muduo\muduo-internet\Log\Logger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="D:\muduo\muduo-internet\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

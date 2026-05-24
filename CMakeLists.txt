@@ -6,6 +6,7 @@ include_directories(${PROJECT_SOURCE_DIR}/boost)
 include_directories(${PROJECT_SOURCE_DIR}/Log)
 add_executable(TimestampTest
     Log/TimeStamp.cpp
+    Log/Logger.cpp
     main.cpp
 )
 target_include_directories(TimestampTest PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/Log)
