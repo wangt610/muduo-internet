@@ -105,6 +105,8 @@ LOG_INFO << "服务器启动，端口: " << port << ", 状态: " << status;
 ### 模块4 ScheduledThreadPool
 ## 第三部分 Buffer缓冲区
 ```
+TCP粘包：发送方多次发送的数据被对方一次性接受
+专门用于TCP 粘包处理、收发数据缓存
 ```
 ## C++新特征pool
 ## 设计模式
