@@ -3,7 +3,8 @@
 #include <string>
 #include <stdint.h>
 #ifdef _WIN32
-#include <windows.h>
+#define WIN32_LEAN_AND_MEAN
+#define _WINSOCKAPI_
 #include <chrono>
 #else
 #include <sys/time.h>
