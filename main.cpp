@@ -56,6 +56,7 @@ int main() {
         threads.emplace_back([t, logsPerThread]() {
             for (int i = 0; i < logsPerThread; ++i) {
                 LOG_INFO << "Thread " << t << " log " << i;
+                LOG_ERROR << "Thread " << t << " error log " << i;
             }
         });
     }
