@@ -16,6 +16,12 @@
     <ClCompile Include="D:\muduo\muduo-internet\Log\LogFile.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="D:\muduo\muduo-internet\buffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\muduo\muduo-internet\InetAddress.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="D:\muduo\muduo-internet\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
