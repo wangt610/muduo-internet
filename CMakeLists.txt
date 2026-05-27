@@ -13,6 +13,7 @@ add_executable(TimestampTest
     Log/LogFile.cpp
     buffer.cpp
     InetAddress.cpp
+    Socket.cpp
     main.cpp
 )
 target_include_directories(TimestampTest PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/Log)

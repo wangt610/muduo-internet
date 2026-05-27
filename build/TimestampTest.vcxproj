@@ -339,6 +339,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="D:\muduo\muduo-internet\Log\LogFile.cpp" />
     <ClCompile Include="D:\muduo\muduo-internet\buffer.cpp" />
     <ClCompile Include="D:\muduo\muduo-internet\InetAddress.cpp" />
+    <ClCompile Include="D:\muduo\muduo-internet\Socket.cpp" />
     <ClCompile Include="D:\muduo\muduo-internet\main.cpp" />
   </ItemGroup>
   <ItemGroup />

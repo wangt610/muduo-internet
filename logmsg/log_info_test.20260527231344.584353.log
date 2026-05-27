@@ -1,0 +1,12 @@
+[2026-05-27 15:13:44.587661] [INFO] [InetAddress:9]  InetAddress构造函数被调用，port=8888
+[2026-05-27 15:13:44.587710] [INFO] [to_ip:33]  InetAddress::to_ip()被调用，IP=0.0.0.0
+[2026-05-27 15:13:44.587708] [INFO] [InetAddress:14]  InetAddress构造完成，IP=0.0.0.0, Port=8888
+[2026-05-27 15:13:44.587768] [INFO] [main:133]  listen on 8888
+
+[2026-05-27 15:13:44.587771] [INFO] [InetAddress:9]  InetAddress构造函数被调用，port=0
+[2026-05-27 15:13:44.587774] [INFO] [to_ip:33]  InetAddress::to_ip()被调用，IP=0.0.0.0
+[2026-05-27 15:13:44.587773] [INFO] [InetAddress:14]  InetAddress构造完成，IP=0.0.0.0, Port=0
+[2026-05-27 15:13:47.275158] [INFO] [to_ip_port:40]  InetAddress::to_ip_port()被调用，IP=127.0.0.1, Port=62879
+[2026-05-27 15:13:47.275175] [INFO] [to_ip:33]  InetAddress::to_ip()被调用，IP=127.0.0.1
+[2026-05-27 15:13:47.275180] [INFO] [to_ip_port:43]  InetAddress::to_ip_port()完成，IP:Port=127.0.0.1:62879
+[2026-05-27 15:13:47.275138] [INFO] [main:144]  new connection: 127.0.0.1:62879

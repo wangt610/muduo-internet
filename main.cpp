@@ -61,42 +61,93 @@
 //     //LOG_INFO << "LOG_INFO写日志测试完成，请检查 logmsg/log_info_test* 文件内容。" ;
 //     return 0;
 // }
+// #include <iostream>
+// #include "InetAddress.hpp"
+
+// // 测试 InetAddress 地址类
+// int main()
+// {
+
+    // AsyncLogging logFile("D:/muduo/muduo-internet/logmsg/log_info_test", 1024 * 1024, 1);
+    // logFile.start();
+    // // 绑定Logger输出到AsyncLogging
+    // Logger::setOutput([&logFile](const std::string &msg)
+    //                   { logFile.append(msg); });
+    // Logger::setFlush([&logFile]()
+    //                  { logFile.flush(); });
+
+//     // ====================== 测试1：服务端地址（只传端口） ======================
+//     InetAddress server_addr(8888);
+//     LOG_INFO << "===== 服务端地址 =====";
+//     LOG_INFO << "IP:   " << server_addr.to_ip();      // 0.0.0.0
+//     LOG_INFO << "Port: " << server_addr.port();       // 8888
+//     LOG_INFO << "Full: " << server_addr.to_ip_port(); // 0.0.0.0:8888
+
+//     // ====================== 测试2：客户端地址（IP + 端口） ======================
+//     InetAddress client_addr("127.0.0.1", 9999);
+//     LOG_INFO << "\n===== 客户端地址 =====";
+//     LOG_INFO << "IP:   " << client_addr.to_ip();      // 127.0.0.1
+//     LOG_INFO << "Port: " << client_addr.port();       // 9999
+//     LOG_INFO << "Full: " << client_addr.to_ip_port(); // 127.0.0.1:9999
+
+//     // ====================== 测试3：获取底层 sockaddr 结构 ======================
+//     // 这个接口给 socket bind/accept 使用
+//     const struct sockaddr *addr_ptr = client_addr.sock_addr();
+    // logFile.flush();
+    // logFile.stop();
+//     LOG_INFO << "底层 sockaddr 地址获取成功 ";
+//     LOG_INFO << "===== InetAddress 所有功能测试通过！=====";
+//     return 0;
+// }
+
+#define WIN32_LEAN_AND_MEAN
+#define _WINSOCKAPI_
 
 #include <iostream>
 #include "InetAddress.hpp"
+#include "Socket.hpp"
 
-// 测试 InetAddress 地址类
-int main()
-{
-
-    AsyncLogging logFile("D:/muduo/muduo-internet/logmsg/log_info_test", 1024 * 1024, 1);
+int main() {
+        AsyncLogging logFile("D:/muduo/muduo-internet/logmsg/log_info_test", 1024 * 1024, 1);
     logFile.start();
     // 绑定Logger输出到AsyncLogging
     Logger::setOutput([&logFile](const std::string &msg)
                       { logFile.append(msg); });
     Logger::setFlush([&logFile]()
                      { logFile.flush(); });
+    // 初始化 Winsock
+    WSADATA wsaData;
+    WSAStartup(MAKEWORD(2, 2), &wsaData);
 
-    // ====================== 测试1：服务端地址（只传端口） ======================
-    InetAddress server_addr(8888);
-    LOG_INFO << "===== 服务端地址 =====";
-    LOG_INFO << "IP:   " << server_addr.to_ip();      // 0.0.0.0
-    LOG_INFO << "Port: " << server_addr.port();       // 8888
-    LOG_INFO << "Full: " << server_addr.to_ip_port(); // 0.0.0.0:8888
+    // 创建监听 socket
+    SOCKET listen_fd = socket(AF_INET, SOCK_STREAM, IPPROTO_TCP);
+    Socket listen_socket(listen_fd);
 
-    // ====================== 测试2：客户端地址（IP + 端口） ======================
-    InetAddress client_addr("127.0.0.1", 9999);
-    LOG_INFO << "\n===== 客户端地址 =====";
-    LOG_INFO << "IP:   " << client_addr.to_ip();      // 127.0.0.1
-    LOG_INFO << "Port: " << client_addr.port();       // 9999
-    LOG_INFO << "Full: " << client_addr.to_ip_port(); // 127.0.0.1:9999
+    // 绑定 8888 端口
+    InetAddress address(8888);
+    listen_socket.set_reuse_addr(true);
+    listen_socket.bind_address(address);
+    listen_socket.listen();
+    listen_socket.set_non_blocking();
 
-    // ====================== 测试3：获取底层 sockaddr 结构 ======================
-    // 这个接口给 socket bind/accept 使用
-    const struct sockaddr *addr_ptr = client_addr.sock_addr();
+    LOG_INFO << "listen on 8888\n";
+
+    // 循环接受连接（简单演示）
+     InetAddress peer_addr;
+    while (true) {
+        SOCKET conn_fd = listen_socket.accept(&peer_addr);
+
+        if (conn_fd == INVALID_SOCKET) {
+            continue;
+        }
+
+        LOG_INFO<< "new connection: " << peer_addr.to_ip_port();
+        Socket conn_socket(conn_fd);
+        conn_socket.set_non_blocking();
+    }
+
     logFile.flush();
     logFile.stop();
-    LOG_INFO << "底层 sockaddr 地址获取成功 ";
-    LOG_INFO << "===== InetAddress 所有功能测试通过！=====";
+    WSACleanup();
     return 0;
 }
