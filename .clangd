@@ -1,0 +1,8 @@
+CompileFlags:
+  Add:
+    - -std=c++17
+    - -Imuduo/base
+    - -ILog
+    - -D_WIN32
+    - -DWIN32_LEAN_AND_MEAN
+CompilationDatabase: build

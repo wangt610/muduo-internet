@@ -3,18 +3,22 @@
         {
             "name": "Win32",
             "includePath": [
+                "${workspaceFolder}/muduo/base",
+                "${workspaceFolder}/Log",
                 "${workspaceFolder}/**",
+                "C:/msys64/mingw64/include/c++/14.2.0",
+                "C:/msys64/mingw64/include/c++/14.2.0/x86_64-w64-mingw32",
                 "C:/msys64/mingw64/include",
                 "C:/msys64/mingw64/x86_64-w64-mingw32/include"
             ],
             "defines": [
-                "_DEBUG",
-                "UNICODE",
-                "_UNICODE"
+                "_WIN32",
+                "WIN32_LEAN_AND_MEAN"
             ],
+            "compilerPath": "C:/msys64/mingw64/bin/g++.exe",
             "cStandard": "c17",
             "cppStandard": "c++17",
-            "intelliSenseMode": "windows-msvc-x64"
+            "intelliSenseMode": "windows-gcc-x64"
         }
     ],
     "version": 4

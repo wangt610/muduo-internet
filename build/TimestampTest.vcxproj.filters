@@ -1,40 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="D:\muduo\muduo-internet\Log\TimeStamp.cpp">
+    <ClCompile Include="D:\xuafe\muduo-internet\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\muduo\muduo-internet\Log\Logger.cpp">
+    <ClCompile Include="D:\xuafe\muduo-internet\Log\TimeStamp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\muduo\muduo-internet\Log\AppendFile.cpp">
+    <ClCompile Include="D:\xuafe\muduo-internet\Log\Logger.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\muduo\muduo-internet\Log\Asynclogging.cpp">
+    <ClCompile Include="D:\xuafe\muduo-internet\Log\AppendFile.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\muduo\muduo-internet\Log\LogFile.cpp">
+    <ClCompile Include="D:\xuafe\muduo-internet\Log\Asynclogging.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\muduo\muduo-internet\buffer.cpp">
+    <ClCompile Include="D:\xuafe\muduo-internet\Log\LogFile.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\muduo\muduo-internet\InetAddress.cpp">
+    <ClCompile Include="D:\xuafe\muduo-internet\muduo\base\buffer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\muduo\muduo-internet\Socket.cpp">
+    <ClCompile Include="D:\xuafe\muduo-internet\muduo\base\InetAddress.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\muduo\muduo-internet\main.cpp">
+    <ClCompile Include="D:\xuafe\muduo-internet\muduo\base\Socket.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\xuafe\muduo-internet\muduo\base\Channel.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="D:\muduo\muduo-internet\CMakeLists.txt" />
+    <CustomBuild Include="D:\xuafe\muduo-internet\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{88F814DD-EC0F-3FE5-A2E0-06A891766389}</UniqueIdentifier>
+      <UniqueIdentifier>{DD3A72A1-B630-3684-ADC8-F4F40CC8FC1C}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
