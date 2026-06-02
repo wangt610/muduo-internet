@@ -1,0 +1,10 @@
+[2026-06-02 16:23:36.685474] [INFO] [operator ():164]  Task 3 is running in thread 24240
+[2026-06-02 16:23:36.685463] [INFO] [operator ():164]  Task 2 is running in thread 868
+[2026-06-02 16:23:36.685418] [INFO] [operator ():164]  Task 0 is running in thread 26376
+[2026-06-02 16:23:36.685935] [INFO] [operator ():164]  Task 5 is running in thread 24240
+[2026-06-02 16:23:36.685935] [INFO] [operator ():164]  Task 4 is running in thread 868
+[2026-06-02 16:23:36.685937] [INFO] [operator ():164]  Task 6 is running in thread 26376
+[2026-06-02 16:23:36.685941] [INFO] [operator ():164]  Task 7 is running in thread 868
+[2026-06-02 16:23:36.685942] [INFO] [operator ():164]  Task 8 is running in thread 26376
+[2026-06-02 16:23:36.685944] [INFO] [operator ():164]  Task 9 is running in thread 868
+[2026-06-02 16:23:36.685458] [INFO] [operator ():164]  Task 1 is running in thread 27248

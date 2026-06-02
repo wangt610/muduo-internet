@@ -23,17 +23,17 @@ events:
       
       The output was:
       0
-      适用于 .NET Framework MSBuild 版本 17.14.8+a7a4d5af0
-      生成启动时间为 2026/5/24 14:04:58。
+      閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.14.8+a7a4d5af0
+      鐢熸垚鍚姩鏃堕棿涓?2026/6/3 0:17:44銆?
       
-      节点 1 上的项目“D:\\muduo\\muduo-internet\\build\\CMakeFiles\\3.31.2\\CompilerIdC\\CompilerIdC.vcxproj”(默认目标)。
+      鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\muduo\\muduo-internet\\build\\CMakeFiles\\3.31.2\\CompilerIdC\\CompilerIdC.vcxproj鈥?榛樿鐩爣)銆?
       PrepareForBuild:
-        正在创建目录“Debug\\”。
-        已启用结构化输出。编译器诊断的格式设置将反映错误层次结构。有关详细信息，请参阅 https://aka.ms/cpp/structured-output。
-        正在创建目录“Debug\\CompilerIdC.tlog\\”。
+        姝ｅ湪鍒涘缓鐩綍鈥淒ebug\\鈥濄€?
+        宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+        姝ｅ湪鍒涘缓鐩綍鈥淒ebug\\CompilerIdC.tlog\\鈥濄€?
       InitializeBuildStatus:
-        正在创建“Debug\\CompilerIdC.tlog\\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
-        正在对“Debug\\CompilerIdC.tlog\\unsuccessfulbuild”执行 Touch 任务。
+        姝ｅ湪鍒涘缓鈥淒ebug\\CompilerIdC.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+        姝ｅ湪瀵光€淒ebug\\CompilerIdC.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
       ClCompile:
         C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\\\" /Fd"Debug\\vc143.pdb" /external:W0 /Gd /TC /FC /errorReport:queue CMakeCCompilerId.c
         CMakeCCompilerId.c
@@ -45,15 +45,15 @@ events:
         :VCEnd
         CMAKE_C_COMPILER=C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe
       FinalizeBuildStatus:
-        正在删除文件“Debug\\CompilerIdC.tlog\\unsuccessfulbuild”。
-        正在对“Debug\\CompilerIdC.tlog\\CompilerIdC.lastbuildstate”执行 Touch 任务。
-      已完成生成项目“D:\\muduo\\muduo-internet\\build\\CMakeFiles\\3.31.2\\CompilerIdC\\CompilerIdC.vcxproj”(默认目标)的操作。
+        姝ｅ湪鍒犻櫎鏂囦欢鈥淒ebug\\CompilerIdC.tlog\\unsuccessfulbuild鈥濄€?
+        姝ｅ湪瀵光€淒ebug\\CompilerIdC.tlog\\CompilerIdC.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+      宸插畬鎴愮敓鎴愰」鐩€淒:\\muduo\\muduo-internet\\build\\CMakeFiles\\3.31.2\\CompilerIdC\\CompilerIdC.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
       
-      已成功生成。
-          0 个警告
-          0 个错误
+      宸叉垚鍔熺敓鎴愩€?
+          0 涓鍛?
+          0 涓敊璇?
       
-      已用时间 00:00:01.55
+      宸茬敤鏃堕棿 00:00:02.02
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -78,17 +78,17 @@ events:
       
       The output was:
       0
-      适用于 .NET Framework MSBuild 版本 17.14.8+a7a4d5af0
-      生成启动时间为 2026/5/24 14:05:00。
+      閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.14.8+a7a4d5af0
+      鐢熸垚鍚姩鏃堕棿涓?2026/6/3 0:17:46銆?
       
-      节点 1 上的项目“D:\\muduo\\muduo-internet\\build\\CMakeFiles\\3.31.2\\CompilerIdCXX\\CompilerIdCXX.vcxproj”(默认目标)。
+      鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\muduo\\muduo-internet\\build\\CMakeFiles\\3.31.2\\CompilerIdCXX\\CompilerIdCXX.vcxproj鈥?榛樿鐩爣)銆?
       PrepareForBuild:
-        正在创建目录“Debug\\”。
-        已启用结构化输出。编译器诊断的格式设置将反映错误层次结构。有关详细信息，请参阅 https://aka.ms/cpp/structured-output。
-        正在创建目录“Debug\\CompilerIdCXX.tlog\\”。
+        姝ｅ湪鍒涘缓鐩綍鈥淒ebug\\鈥濄€?
+        宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+        姝ｅ湪鍒涘缓鐩綍鈥淒ebug\\CompilerIdCXX.tlog\\鈥濄€?
       InitializeBuildStatus:
-        正在创建“Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
-        正在对“Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild”执行 Touch 任务。
+        姝ｅ湪鍒涘缓鈥淒ebug\\CompilerIdCXX.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+        姝ｅ湪瀵光€淒ebug\\CompilerIdCXX.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
       ClCompile:
         C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\\\" /Fd"Debug\\vc143.pdb" /external:W0 /Gd /TP /FC /errorReport:queue CMakeCXXCompilerId.cpp
         CMakeCXXCompilerId.cpp
@@ -100,15 +100,15 @@ events:
         :VCEnd
         CMAKE_CXX_COMPILER=C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe
       FinalizeBuildStatus:
-        正在删除文件“Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild”。
-        正在对“Debug\\CompilerIdCXX.tlog\\CompilerIdCXX.lastbuildstate”执行 Touch 任务。
-      已完成生成项目“D:\\muduo\\muduo-internet\\build\\CMakeFiles\\3.31.2\\CompilerIdCXX\\CompilerIdCXX.vcxproj”(默认目标)的操作。
+        姝ｅ湪鍒犻櫎鏂囦欢鈥淒ebug\\CompilerIdCXX.tlog\\unsuccessfulbuild鈥濄€?
+        姝ｅ湪瀵光€淒ebug\\CompilerIdCXX.tlog\\CompilerIdCXX.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+      宸插畬鎴愮敓鎴愰」鐩€淒:\\muduo\\muduo-internet\\build\\CMakeFiles\\3.31.2\\CompilerIdCXX\\CompilerIdCXX.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
       
-      已成功生成。
-          0 个警告
-          0 个错误
+      宸叉垚鍔熺敓鎴愩€?
+          0 涓鍛?
+          0 涓敊璇?
       
-      已用时间 00:00:01.54
+      宸茬敤鏃堕棿 00:00:01.55
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -127,8 +127,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-rht8w4"
-      binary: "D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-rht8w4"
+      source: "D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-ygrg5t"
+      binary: "D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-ygrg5t"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
@@ -136,40 +136,40 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-rht8w4'
+        Change Dir: 'D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-ygrg5t'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_8818a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
-        适用于 .NET Framework MSBuild 版本 17.14.8+a7a4d5af0
-        生成启动时间为 2026/5/24 14:05:02。
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_9e6fa.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.14.8+a7a4d5af0
+        鐢熸垚鍚姩鏃堕棿涓?2026/6/3 0:17:48銆?
         
-        节点 1 上的项目“D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rht8w4\\cmTC_8818a.vcxproj”(默认目标)。
+        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ygrg5t\\cmTC_9e6fa.vcxproj鈥?榛樿鐩爣)銆?
         PrepareForBuild:
-          正在创建目录“cmTC_8818a.dir\\Debug\\”。
-          已启用结构化输出。编译器诊断的格式设置将反映错误层次结构。有关详细信息，请参阅 https://aka.ms/cpp/structured-output。
-          正在创建目录“D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rht8w4\\Debug\\”。
-          正在创建目录“cmTC_8818a.dir\\Debug\\cmTC_8818a.tlog\\”。
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_9e6fa.dir\\Debug\\鈥濄€?
+          宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+          姝ｅ湪鍒涘缓鐩綍鈥淒:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ygrg5t\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_9e6fa.dir\\Debug\\cmTC_9e6fa.tlog\\鈥濄€?
         InitializeBuildStatus:
-          正在创建“cmTC_8818a.dir\\Debug\\cmTC_8818a.tlog\\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
-          正在对“cmTC_8818a.dir\\Debug\\cmTC_8818a.tlog\\unsuccessfulbuild”执行 Touch 任务。
+          姝ｅ湪鍒涘缓鈥渃mTC_9e6fa.dir\\Debug\\cmTC_9e6fa.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_9e6fa.dir\\Debug\\cmTC_9e6fa.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8818a.dir\\Debug\\\\" /Fd"cmTC_8818a.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
-          用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.44.35207.1 版
-          版权所有(C) Microsoft Corporation。保留所有权利。
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8818a.dir\\Debug\\\\" /Fd"cmTC_8818a.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9e6fa.dir\\Debug\\\\" /Fd"cmTC_9e6fa.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
+          鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.44.35207.1 鐗?
+          鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9e6fa.dir\\Debug\\\\" /Fd"cmTC_9e6fa.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rht8w4\\Debug\\cmTC_8818a.exe" /INCREMENTAL /ILK:"cmTC_8818a.dir\\Debug\\cmTC_8818a.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-rht8w4/Debug/cmTC_8818a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-rht8w4/Debug/cmTC_8818a.lib" /MACHINE:X64  /machine:x64 cmTC_8818a.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_8818a.vcxproj -> D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rht8w4\\Debug\\cmTC_8818a.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ygrg5t\\Debug\\cmTC_9e6fa.exe" /INCREMENTAL /ILK:"cmTC_9e6fa.dir\\Debug\\cmTC_9e6fa.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-ygrg5t/Debug/cmTC_9e6fa.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-ygrg5t/Debug/cmTC_9e6fa.lib" /MACHINE:X64  /machine:x64 cmTC_9e6fa.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_9e6fa.vcxproj -> D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ygrg5t\\Debug\\cmTC_9e6fa.exe
         FinalizeBuildStatus:
-          正在删除文件“cmTC_8818a.dir\\Debug\\cmTC_8818a.tlog\\unsuccessfulbuild”。
-          正在对“cmTC_8818a.dir\\Debug\\cmTC_8818a.tlog\\cmTC_8818a.lastbuildstate”执行 Touch 任务。
-        已完成生成项目“D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rht8w4\\cmTC_8818a.vcxproj”(默认目标)的操作。
+          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_9e6fa.dir\\Debug\\cmTC_9e6fa.tlog\\unsuccessfulbuild鈥濄€?
+          姝ｅ湪瀵光€渃mTC_9e6fa.dir\\Debug\\cmTC_9e6fa.tlog\\cmTC_9e6fa.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+        宸插畬鎴愮敓鎴愰」鐩€淒:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ygrg5t\\cmTC_9e6fa.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
         
-        已成功生成。
-            0 个警告
-            0 个错误
+        宸叉垚鍔熺敓鎴愩€?
+            0 涓鍛?
+            0 涓敊璇?
         
-        已用时间 00:00:01.56
+        宸茬敤鏃堕棿 00:00:01.45
         
       exitCode: 0
   -
@@ -209,8 +209,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-b27buc"
-      binary: "D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-b27buc"
+      source: "D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-yp0n1q"
+      binary: "D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-yp0n1q"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
@@ -219,40 +219,40 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-b27buc'
+        Change Dir: 'D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-yp0n1q'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_761be.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
-        适用于 .NET Framework MSBuild 版本 17.14.8+a7a4d5af0
-        生成启动时间为 2026/5/24 14:05:04。
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_8f38a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.14.8+a7a4d5af0
+        鐢熸垚鍚姩鏃堕棿涓?2026/6/3 0:17:50銆?
         
-        节点 1 上的项目“D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b27buc\\cmTC_761be.vcxproj”(默认目标)。
+        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yp0n1q\\cmTC_8f38a.vcxproj鈥?榛樿鐩爣)銆?
         PrepareForBuild:
-          正在创建目录“cmTC_761be.dir\\Debug\\”。
-          已启用结构化输出。编译器诊断的格式设置将反映错误层次结构。有关详细信息，请参阅 https://aka.ms/cpp/structured-output。
-          正在创建目录“D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b27buc\\Debug\\”。
-          正在创建目录“cmTC_761be.dir\\Debug\\cmTC_761be.tlog\\”。
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_8f38a.dir\\Debug\\鈥濄€?
+          宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+          姝ｅ湪鍒涘缓鐩綍鈥淒:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yp0n1q\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_8f38a.dir\\Debug\\cmTC_8f38a.tlog\\鈥濄€?
         InitializeBuildStatus:
-          正在创建“cmTC_761be.dir\\Debug\\cmTC_761be.tlog\\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
-          正在对“cmTC_761be.dir\\Debug\\cmTC_761be.tlog\\unsuccessfulbuild”执行 Touch 任务。
+          姝ｅ湪鍒涘缓鈥渃mTC_8f38a.dir\\Debug\\cmTC_8f38a.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_8f38a.dir\\Debug\\cmTC_8f38a.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_761be.dir\\Debug\\\\" /Fd"cmTC_761be.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
-          用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.44.35207.1 版
-          版权所有(C) Microsoft Corporation。保留所有权利。
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_761be.dir\\Debug\\\\" /Fd"cmTC_761be.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_8f38a.dir\\Debug\\\\" /Fd"cmTC_8f38a.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
+          鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.44.35207.1 鐗?
+          鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_8f38a.dir\\Debug\\\\" /Fd"cmTC_8f38a.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b27buc\\Debug\\cmTC_761be.exe" /INCREMENTAL /ILK:"cmTC_761be.dir\\Debug\\cmTC_761be.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-b27buc/Debug/cmTC_761be.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-b27buc/Debug/cmTC_761be.lib" /MACHINE:X64  /machine:x64 cmTC_761be.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_761be.vcxproj -> D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b27buc\\Debug\\cmTC_761be.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yp0n1q\\Debug\\cmTC_8f38a.exe" /INCREMENTAL /ILK:"cmTC_8f38a.dir\\Debug\\cmTC_8f38a.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-yp0n1q/Debug/cmTC_8f38a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/muduo/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-yp0n1q/Debug/cmTC_8f38a.lib" /MACHINE:X64  /machine:x64 cmTC_8f38a.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_8f38a.vcxproj -> D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yp0n1q\\Debug\\cmTC_8f38a.exe
         FinalizeBuildStatus:
-          正在删除文件“cmTC_761be.dir\\Debug\\cmTC_761be.tlog\\unsuccessfulbuild”。
-          正在对“cmTC_761be.dir\\Debug\\cmTC_761be.tlog\\cmTC_761be.lastbuildstate”执行 Touch 任务。
-        已完成生成项目“D:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b27buc\\cmTC_761be.vcxproj”(默认目标)的操作。
+          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_8f38a.dir\\Debug\\cmTC_8f38a.tlog\\unsuccessfulbuild鈥濄€?
+          姝ｅ湪瀵光€渃mTC_8f38a.dir\\Debug\\cmTC_8f38a.tlog\\cmTC_8f38a.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+        宸插畬鎴愮敓鎴愰」鐩€淒:\\muduo\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yp0n1q\\cmTC_8f38a.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
         
-        已成功生成。
-            0 个警告
-            0 个错误
+        宸叉垚鍔熺敓鎴愩€?
+            0 涓鍛?
+            0 涓敊璇?
         
-        已用时间 00:00:01.51
+        宸茬敤鏃堕棿 00:00:01.47
         
       exitCode: 0
   -
@@ -282,291 +282,5 @@ events:
     message: |
       Running the CXX compiler's linker: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/link.exe" "-v"
       Microsoft (R) Incremental Linker Version 14.44.35207.1
-      Copyright (C) Microsoft Corporation.  All rights reserved.
-...
-
----
-events:
-  -
-    kind: "message-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake:205 (message)"
-      - "CMakeLists.txt:2 (project)"
-    message: |
-      The system is: Windows - 10.0.26200 - AMD64
-  -
-    kind: "message-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
-      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
-      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
-      - "CMakeLists.txt:2 (project)"
-    message: |
-      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
-      Compiler:  
-      Build flags: 
-      Id flags:  
-      
-      The output was:
-      0
-      閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.14.40+3e7442088
-      鐢熸垚鍚姩鏃堕棿涓?2026/6/1 20:38:29銆?
-      
-      鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\xuafe\\muduo-internet\\build\\CMakeFiles\\3.29.6\\CompilerIdC\\CompilerIdC.vcxproj鈥?榛樿鐩爣)銆?
-      PrepareForBuild:
-        姝ｅ湪鍒涘缓鐩綍鈥淒ebug\\鈥濄€?
-        宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
-        姝ｅ湪鍒涘缓鐩綍鈥淒ebug\\CompilerIdC.tlog\\鈥濄€?
-      InitializeBuildStatus:
-        姝ｅ湪鍒涘缓鈥淒ebug\\CompilerIdC.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
-        姝ｅ湪瀵光€淒ebug\\CompilerIdC.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
-      ClCompile:
-        C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\\\" /Fd"Debug\\vc143.pdb" /external:W0 /Gd /TC /FC /errorReport:queue CMakeCCompilerId.c
-        CMakeCCompilerId.c
-      Link:
-        C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdC.lib" /MACHINE:X64 Debug\\CMakeCCompilerId.obj
-        CompilerIdC.vcxproj -> D:\\xuafe\\muduo-internet\\build\\CMakeFiles\\3.29.6\\CompilerIdC\\CompilerIdC.exe
-      PostBuildEvent:
-        for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
-        :VCEnd
-        CMAKE_C_COMPILER=C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe
-      FinalizeBuildStatus:
-        姝ｅ湪鍒犻櫎鏂囦欢鈥淒ebug\\CompilerIdC.tlog\\unsuccessfulbuild鈥濄€?
-        姝ｅ湪瀵光€淒ebug\\CompilerIdC.tlog\\CompilerIdC.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
-      宸插畬鎴愮敓鎴愰」鐩€淒:\\xuafe\\muduo-internet\\build\\CMakeFiles\\3.29.6\\CompilerIdC\\CompilerIdC.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
-      
-      宸叉垚鍔熺敓鎴愩€?
-          0 涓鍛?
-          0 涓敊璇?
-      
-      宸茬敤鏃堕棿 00:00:02.36
-      
-      
-      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
-      
-      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
-      
-      The C compiler identification is MSVC, found in:
-        D:/xuafe/muduo-internet/build/CMakeFiles/3.29.6/CompilerIdC/CompilerIdC.exe
-      
-  -
-    kind: "message-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
-      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
-      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
-      - "CMakeLists.txt:2 (project)"
-    message: |
-      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
-      Compiler:  
-      Build flags: 
-      Id flags:  
-      
-      The output was:
-      0
-      閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.14.40+3e7442088
-      鐢熸垚鍚姩鏃堕棿涓?2026/6/1 20:38:31銆?
-      
-      鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\xuafe\\muduo-internet\\build\\CMakeFiles\\3.29.6\\CompilerIdCXX\\CompilerIdCXX.vcxproj鈥?榛樿鐩爣)銆?
-      PrepareForBuild:
-        姝ｅ湪鍒涘缓鐩綍鈥淒ebug\\鈥濄€?
-        宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
-        姝ｅ湪鍒涘缓鐩綍鈥淒ebug\\CompilerIdCXX.tlog\\鈥濄€?
-      InitializeBuildStatus:
-        姝ｅ湪鍒涘缓鈥淒ebug\\CompilerIdCXX.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
-        姝ｅ湪瀵光€淒ebug\\CompilerIdCXX.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
-      ClCompile:
-        C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\\\" /Fd"Debug\\vc143.pdb" /external:W0 /Gd /TP /FC /errorReport:queue CMakeCXXCompilerId.cpp
-        CMakeCXXCompilerId.cpp
-      Link:
-        C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdCXX.lib" /MACHINE:X64 Debug\\CMakeCXXCompilerId.obj
-        CompilerIdCXX.vcxproj -> D:\\xuafe\\muduo-internet\\build\\CMakeFiles\\3.29.6\\CompilerIdCXX\\CompilerIdCXX.exe
-      PostBuildEvent:
-        for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
-        :VCEnd
-        CMAKE_CXX_COMPILER=C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe
-      FinalizeBuildStatus:
-        姝ｅ湪鍒犻櫎鏂囦欢鈥淒ebug\\CompilerIdCXX.tlog\\unsuccessfulbuild鈥濄€?
-        姝ｅ湪瀵光€淒ebug\\CompilerIdCXX.tlog\\CompilerIdCXX.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
-      宸插畬鎴愮敓鎴愰」鐩€淒:\\xuafe\\muduo-internet\\build\\CMakeFiles\\3.29.6\\CompilerIdCXX\\CompilerIdCXX.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
-      
-      宸叉垚鍔熺敓鎴愩€?
-          0 涓鍛?
-          0 涓敊璇?
-      
-      宸茬敤鏃堕棿 00:00:00.66
-      
-      
-      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
-      
-      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
-      
-      The CXX compiler identification is MSVC, found in:
-        D:/xuafe/muduo-internet/build/CMakeFiles/3.29.6/CompilerIdCXX/CompilerIdCXX.exe
-      
-  -
-    kind: "try_compile-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:67 (try_compile)"
-      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
-      - "CMakeLists.txt:2 (project)"
-    checks:
-      - "Detecting C compiler ABI info"
-    directories:
-      source: "D:/xuafe/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-ysux7c"
-      binary: "D:/xuafe/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-ysux7c"
-    cmakeVariables:
-      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
-      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-    buildResult:
-      variable: "CMAKE_C_ABI_COMPILED"
-      cached: true
-      stdout: |
-        Change Dir: 'D:/xuafe/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-ysux7c'
-        
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Professional/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_1b414.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
-        閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.14.40+3e7442088
-        鐢熸垚鍚姩鏃堕棿涓?2026/6/1 20:38:32銆?
-        
-        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\xuafe\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ysux7c\\cmTC_1b414.vcxproj鈥?榛樿鐩爣)銆?
-        PrepareForBuild:
-          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_1b414.dir\\Debug\\鈥濄€?
-          宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
-          姝ｅ湪鍒涘缓鐩綍鈥淒:\\xuafe\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ysux7c\\Debug\\鈥濄€?
-          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_1b414.dir\\Debug\\cmTC_1b414.tlog\\鈥濄€?
-        InitializeBuildStatus:
-          姝ｅ湪鍒涘缓鈥渃mTC_1b414.dir\\Debug\\cmTC_1b414.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
-          姝ｅ湪瀵光€渃mTC_1b414.dir\\Debug\\cmTC_1b414.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
-        ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1b414.dir\\Debug\\\\" /Fd"cmTC_1b414.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c"
-          鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.44.35224 鐗?
-          鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1b414.dir\\Debug\\\\" /Fd"cmTC_1b414.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c"
-          CMakeCCompilerABI.c
-        Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\xuafe\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ysux7c\\Debug\\cmTC_1b414.exe" /INCREMENTAL /ILK:"cmTC_1b414.dir\\Debug\\cmTC_1b414.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/xuafe/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-ysux7c/Debug/cmTC_1b414.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/xuafe/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-ysux7c/Debug/cmTC_1b414.lib" /MACHINE:X64  /machine:x64 cmTC_1b414.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_1b414.vcxproj -> D:\\xuafe\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ysux7c\\Debug\\cmTC_1b414.exe
-        FinalizeBuildStatus:
-          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_1b414.dir\\Debug\\cmTC_1b414.tlog\\unsuccessfulbuild鈥濄€?
-          姝ｅ湪瀵光€渃mTC_1b414.dir\\Debug\\cmTC_1b414.tlog\\cmTC_1b414.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
-        宸插畬鎴愮敓鎴愰」鐩€淒:\\xuafe\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ysux7c\\cmTC_1b414.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
-        
-        宸叉垚鍔熺敓鎴愩€?
-            0 涓鍛?
-            0 涓敊璇?
-        
-        宸茬敤鏃堕棿 00:00:00.63
-        
-      exitCode: 0
-  -
-    kind: "message-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:173 (message)"
-      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
-      - "CMakeLists.txt:2 (project)"
-    message: |
-      Parsed C implicit link information:
-        link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
-        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
-        linker tool for 'C': C:/Program Files/Microsoft Visual Studio/2022/Professional/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/link.exe
-        implicit libs: []
-        implicit objs: []
-        implicit dirs: []
-        implicit fwks: []
-      
-      
-  -
-    kind: "message-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.29/Modules/Internal/CMakeDetermineLinkerId.cmake:40 (message)"
-      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:210 (cmake_determine_linker_id)"
-      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
-      - "CMakeLists.txt:2 (project)"
-    message: |
-      Running the C compiler's linker: "C:/Program Files/Microsoft Visual Studio/2022/Professional/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/link.exe" "-v"
-      Microsoft (R) Incremental Linker Version 14.44.35224.0
-      Copyright (C) Microsoft Corporation.  All rights reserved.
-  -
-    kind: "try_compile-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:67 (try_compile)"
-      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
-      - "CMakeLists.txt:2 (project)"
-    checks:
-      - "Detecting CXX compiler ABI info"
-    directories:
-      source: "D:/xuafe/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-tg4dv1"
-      binary: "D:/xuafe/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-tg4dv1"
-    cmakeVariables:
-      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
-      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
-      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-    buildResult:
-      variable: "CMAKE_CXX_ABI_COMPILED"
-      cached: true
-      stdout: |
-        Change Dir: 'D:/xuafe/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-tg4dv1'
-        
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Professional/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_75aab.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
-        閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.14.40+3e7442088
-        鐢熸垚鍚姩鏃堕棿涓?2026/6/1 20:38:33銆?
-        
-        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\xuafe\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-tg4dv1\\cmTC_75aab.vcxproj鈥?榛樿鐩爣)銆?
-        PrepareForBuild:
-          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_75aab.dir\\Debug\\鈥濄€?
-          宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
-          姝ｅ湪鍒涘缓鐩綍鈥淒:\\xuafe\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-tg4dv1\\Debug\\鈥濄€?
-          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_75aab.dir\\Debug\\cmTC_75aab.tlog\\鈥濄€?
-        InitializeBuildStatus:
-          姝ｅ湪鍒涘缓鈥渃mTC_75aab.dir\\Debug\\cmTC_75aab.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
-          姝ｅ湪瀵光€渃mTC_75aab.dir\\Debug\\cmTC_75aab.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
-        ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_75aab.dir\\Debug\\\\" /Fd"cmTC_75aab.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
-          鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.44.35224 鐗?
-          鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_75aab.dir\\Debug\\\\" /Fd"cmTC_75aab.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
-          CMakeCXXCompilerABI.cpp
-        Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\xuafe\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-tg4dv1\\Debug\\cmTC_75aab.exe" /INCREMENTAL /ILK:"cmTC_75aab.dir\\Debug\\cmTC_75aab.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/xuafe/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-tg4dv1/Debug/cmTC_75aab.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/xuafe/muduo-internet/build/CMakeFiles/CMakeScratch/TryCompile-tg4dv1/Debug/cmTC_75aab.lib" /MACHINE:X64  /machine:x64 cmTC_75aab.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_75aab.vcxproj -> D:\\xuafe\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-tg4dv1\\Debug\\cmTC_75aab.exe
-        FinalizeBuildStatus:
-          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_75aab.dir\\Debug\\cmTC_75aab.tlog\\unsuccessfulbuild鈥濄€?
-          姝ｅ湪瀵光€渃mTC_75aab.dir\\Debug\\cmTC_75aab.tlog\\cmTC_75aab.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
-        宸插畬鎴愮敓鎴愰」鐩€淒:\\xuafe\\muduo-internet\\build\\CMakeFiles\\CMakeScratch\\TryCompile-tg4dv1\\cmTC_75aab.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
-        
-        宸叉垚鍔熺敓鎴愩€?
-            0 涓鍛?
-            0 涓敊璇?
-        
-        宸茬敤鏃堕棿 00:00:00.61
-        
-      exitCode: 0
-  -
-    kind: "message-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:173 (message)"
-      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
-      - "CMakeLists.txt:2 (project)"
-    message: |
-      Parsed CXX implicit link information:
-        link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
-        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
-        linker tool for 'CXX': C:/Program Files/Microsoft Visual Studio/2022/Professional/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/link.exe
-        implicit libs: []
-        implicit objs: []
-        implicit dirs: []
-        implicit fwks: []
-      
-      
-  -
-    kind: "message-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.29/Modules/Internal/CMakeDetermineLinkerId.cmake:40 (message)"
-      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:210 (cmake_determine_linker_id)"
-      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
-      - "CMakeLists.txt:2 (project)"
-    message: |
-      Running the CXX compiler's linker: "C:/Program Files/Microsoft Visual Studio/2022/Professional/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/link.exe" "-v"
-      Microsoft (R) Incremental Linker Version 14.44.35224.0
       Copyright (C) Microsoft Corporation.  All rights reserved.
 ...
